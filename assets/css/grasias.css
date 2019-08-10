@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+.contenedor{
+	width: 50%;
+	margin: auto;
+	margin-top: 50px;
+}
+.titulo{
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.parrafo{
+	text-align: justify;
+	font-size: 14px;
+}
+@media (max-width: 500px) {
+	.contenedor{
+		width: 90%;
+	}
+	
+}
