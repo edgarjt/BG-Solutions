@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3805b6fe-0a4c-4310-bc12-a4e40dd8aa60" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/php/contador.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assets/php/contador.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/equipo.html" beforeDir="false" afterPath="$PROJECT_DIR$/includes/equipo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588385012171</updated>
       <workItem from="1588385013613" duration="1733000" />
-      <workItem from="1588388750906" duration="535000" />
+      <workItem from="1588388750906" duration="1031000" />
     </task>
     <servers />
   </component>
